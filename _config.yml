@@ -16,7 +16,7 @@ timezone:
 
 title: The People Who Love # the main title
 
-tagline: This is where Shawn will come up with a really cool tagline # it will display as the sub-title
+tagline: This is where Shawn will come up with a really cool tagline! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed!
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
